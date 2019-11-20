@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AppDescription" xml:space="preserve">
-    <value>The New Windows Terminal</value>
+    <value>The New Windows Terminal, built by Retr0gr4d3</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Windows Terminal (Preview)</value>
+    <value>Retr0 Windows Terminal (Bleeding Edge)</value>
   </data>
   <data name="AppDescriptionDev" xml:space="preserve">
-    <value>The Windows Terminal, but Unofficial</value>
+    <value>The Windows Terminal, but Retr0gr4d3 got his hands on it</value>
   </data>
   <data name="AppNameDev" xml:space="preserve">
-    <value>Windows Terminal (Dev Build)</value>
+    <value>Retr0 Windows Terminal (Pre-Rel)</value>
   </data>
   <data name="AppShortName" xml:space="preserve">
-    <value>Terminal</value>
+    <value>Retr0 Terminal</value>
   </data>
   <data name="AppShortNameDev" xml:space="preserve">
-    <value>Terminal (Dev)</value>
+    <value>Retr0 Terminal (Pre-Rel)</value>
   </data>
 </root>
